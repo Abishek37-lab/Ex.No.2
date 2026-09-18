@@ -35,7 +35,8 @@ Test and compare how different pattern models respond to various prompts (broad 
    - Create comparison tables for each scenario  
 
 7. Analyze Findings  
-   - Identify which prompting pattern performs best 
+   - Identify which prompting pattern performs best
+   - 
 
 ## Output
 
